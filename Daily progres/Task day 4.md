@@ -6,4 +6,4 @@ Using git for make repo
 Hosting repo to github
 # Pictures
 CRUD
-(mages/CRUD di terminal.PNG)
+(images/CRUD di terminal.PNG)
