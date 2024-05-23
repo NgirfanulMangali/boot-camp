@@ -4,3 +4,4 @@
 
 ## Blocking
 - Nerveous when presentation and confused must say what.
+- Sick
